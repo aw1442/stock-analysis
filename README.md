@@ -1,4 +1,4 @@
-# Stock Analyi with VBA
+# Stock Analyis with VBA
 
 ## OVERVIEW: VBA Stock Analysis Project
 
@@ -46,6 +46,8 @@ Original execution time 2017
 Original execution time 2018
 
 ![VBA_Challenge_2018_original](https://user-images.githubusercontent.com/76754655/109437569-6c8b1480-79f3-11eb-98c9-bf5c5bb956c4.PNG)
+
+## SUMMARY: Our Statement:
 
 The advantages of refactoring code is that the code becomes more flexible for future edits in case there are additional tickers that may need to be analyzed as the array can add additional tickers easier than manually keeping track of the total number of tickers in the original script.
 
