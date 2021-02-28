@@ -1,4 +1,4 @@
-# Stock Analyis with VBA
+# Stock Analysis with VBA
 
 ## OVERVIEW: VBA Stock Analysis Project
 
